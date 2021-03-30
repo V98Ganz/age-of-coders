@@ -11,3 +11,5 @@ it. I'm a big fan of Age Of Empires!
 
  Please do contact me if you have any suggestions, all feedback is much appreciated.  
 
+ ## It is important to note that to run the project we need to cd age-of-coders, then npm start
+
